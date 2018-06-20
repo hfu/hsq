@@ -1,0 +1,20 @@
+{
+  "name": "hsq",
+  "version": "1.0.0",
+  "description": "qmatrix from headless serialtiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/hsq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfu/hsq/issues"
+  },
+  "homepage": "https://github.com/hfu/hsq#readme"
+}
